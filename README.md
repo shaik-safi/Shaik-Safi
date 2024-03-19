@@ -1,6 +1,28 @@
-# 💫 About Me:
-I am a passionate Front-end developer and completed my B.Tech in Computer Science at Dayananda Sagar University, Bangalore. I have always been fascinated by the way technology can be used to solve complex problems and make life easier for people. This fascination led me to pursue a career in computer science, where I am constantly learning and exploring new technologies to enhance my skills. As a fullstack developer, I am proficient in Java, JavaScript, React Js, and Springboot. I believe that learning is a never-ending process and I constantly upgrade my skills to stay ahead of the curve. I have a solid ability to adapt to new technologies and love exploring new depths to further my knowledge. I am excited to be part of an environment where I can collaborate with like-minded professionals and share knowledge to achieve common goals. I believe in hard work, perseverance, and team effort, and I can contribute positively to any project or team
+# N Shaik Safi
 
+📧 Email: shaiksafidev@gmail.com | 📞 Phone: +91 9008154697  
+🌐 Portfolio: [shaiksafi.netlify.app](https://shaiksafi.netlify.app) | 💼 LinkedIn: [linkedin.com/in/shaik-safi-1353831b3](https://www.linkedin.com/in/shaik-safi-1353831b3)
+
+🚀 Software Engineer at Siemens, specializing in projects within the Grid Control department. Proficient in Java, Spring Boot, and other key technologies. Dedicated to delivering innovative software solutions. Currently working on Spring Boot and Core Java at Siemens. Open to networking for career opportunities in software development.
+
+🎓 Education: B.Tech in Computer Science from Dayananda Sagar University, Bangalore, with a cumulative GPA of 7.61/10.0.
+
+💻 **Skills:**
+- Programming Languages: Java, Python, C
+- Web Development: HTML, CSS, JavaScript, React
+- Frameworks: Spring Boot
+- Database Management: SQL, MySQL
+- Agile Methodologies: Scrum
+- Soft Skills: Problem Solving, Team Collaboration, Communication, Leadership, Adaptability
+
+🏅 **Certifications:**
+- Master Spring Boot 3 & Spring Framework 6 with Java
+- Java Full Stack programming
+- The Complete JavaScript Course 2022: From Zero to Expert!
+- Python for Everybody from University of Michigan (August 2023)
+
+📝 **Research Publications:**
+Co-authored "Maximizing Women's Safety with an Effective System" published in the International Journal of Engineering Research & Technology (IJERT), March 2023.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaik-safi-1353831b3) 
